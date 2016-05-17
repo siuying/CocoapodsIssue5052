@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.author           = { "Francis Chong" => "francis@ignition.hk" }
   s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/Issue5052.git", :tag => s.version.to_s }
 
-  s.platform = :ios, '8.0'
+  s.platform = :ios, '9.0'
 
   s.source_files = 'Issue5052/Classes/**/*'
 end
