@@ -4,8 +4,6 @@ target 'Issue5052_Example' do
   pod 'Issue5052', :path => '../'
 
   target 'Issue5052_Tests' do
-    inherit! :search_paths
-
-    
+    inherit! :search_paths    
   end
 end
