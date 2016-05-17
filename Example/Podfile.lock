@@ -1,0 +1,16 @@
+PODS:
+  - Issue5052 (0.1.0)
+
+DEPENDENCIES:
+  - Issue5052 (from `../`)
+
+EXTERNAL SOURCES:
+  Issue5052:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Issue5052: 5920112ad0c20b774f5556aba08b19fde6dac6aa
+
+PODFILE CHECKSUM: 0757ecbab71dd6127f71906aad2c848100033280
+
+COCOAPODS: 1.0.0

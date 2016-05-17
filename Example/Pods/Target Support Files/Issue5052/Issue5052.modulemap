@@ -1,0 +1,6 @@
+framework module Issue5052 {
+  umbrella header "Issue5052-umbrella.h"
+
+  export *
+  module * { export * }
+}
